@@ -16,3 +16,5 @@ This web application was built using HTML, JavaScript, and CSS for styling. The 
 
 ## Contact
 Misael Reyes - misaelrey@gmail.com
+
+Portfolio Link: [https://missile11011.github.io/PasswordGenerator/](https://missile11011.github.io/PasswordGenerator/)
